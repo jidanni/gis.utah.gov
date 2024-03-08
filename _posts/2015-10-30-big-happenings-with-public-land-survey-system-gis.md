@@ -36,7 +36,7 @@ This approach just makes too much sense. Having all three stakeholder organizati
 
 As property descriptions are all ultimately described using the exact location of the physical survey monuments as a starting point, it is important that the monuments are protected, and as a backup, their locations are collected and preserved.
 
-A mechanism to protect these monuments and enhance the PLSS was created in Senate Bill 264 which passed in the 2015 Utah Legislative General Session. SB 264 established the Monument Replacement and Restoration Committee (MRRC) as well as seed funding to establish a County grant program ([UCA 63F-1-510](https://le.utah.gov/xcode/Title63F/Chapter1/63F-1-S510.html)).
+A mechanism to protect these monuments and enhance the PLSS was created in Senate Bill 264 which passed in the 2015 Utah Legislative General Session. SB 264 established the Monument Replacement and Restoration Committee (MRRC) as well as seed funding to establish a County grant program ([UCA 63F-1-510](https://web.archive.org/web/20200926054925/https://le.utah.gov/xcode/Title63F/Chapter1/63F-1-S510.html)).
 
 In addition to creating the MRRC, this bill establishes and amends provisions relating to PLSS survey monuments and clarifies reporting requirements and creates a process for the protection of survey monuments.
 
